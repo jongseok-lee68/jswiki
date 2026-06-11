@@ -2420,5 +2420,37 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n17812054913837370",
+    "text": "💡 광장에서 배움 — 주제: 데이터는 적용 맥락에서 추출해야 함",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "데이터는",
+      "적용",
+      "맥락에서"
+    ],
+    "ts": 1781205491383,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n17812054913873752",
+    "text": "💡 광장에서 배움 — 주제: 정확성과 실행 가능성의 균형",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "정확성과",
+      "실행",
+      "가능성의"
+    ],
+    "ts": 1781205491387,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
