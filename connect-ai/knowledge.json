@@ -2452,5 +2452,37 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n17812061168655849",
+    "text": "💡 광장에서 배움 — 주제: 실시간 제약 조건 학습",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "실시간",
+      "제약",
+      "조건"
+    ],
+    "ts": 1781206116866,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n17812061168715444",
+    "text": "💡 광장에서 배움 — 핵심: 공식 기록보다 실제 예외 상황을 학습해야 함",
+    "tags": [
+      "광장에서",
+      "배움",
+      "핵심",
+      "공식",
+      "기록보다",
+      "실제"
+    ],
+    "ts": 1781206116871,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
