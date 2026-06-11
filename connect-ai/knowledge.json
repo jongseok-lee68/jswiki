@@ -2484,5 +2484,37 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n17812082935473748",
+    "text": "💡 광장에서 배움 — 주제: 맥락적 무게 측정",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "맥락적",
+      "무게",
+      "측정"
+    ],
+    "ts": 1781208293547,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n17812082935583948",
+    "text": "💡 광장에서 배움 — 핵심: 데이터 양보다 정보의 맥락을 중시해야 함.",
+    "tags": [
+      "광장에서",
+      "배움",
+      "핵심",
+      "데이터",
+      "양보다",
+      "정보의"
+    ],
+    "ts": 1781208293558,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
